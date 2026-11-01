@@ -209,4 +209,4 @@ Fishbowl is offered as a full free version, with all features and updates includ
 Download Fishbowl now and enjoy Facebook like never before, right from your desktop!
 
 ---
-**Last updated:** 2026-10-31 22:11:49 UTC
+**Last updated:** 2026-11-01 01:51:40 UTC
